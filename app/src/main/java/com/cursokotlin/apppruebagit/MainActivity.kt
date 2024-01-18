@@ -23,17 +23,7 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
                     Greeting("Android")
-                    print("esto es un ejemplo")
-                    print("esto es un ejemplo")
-                    print("esto es un ejemplo")
-                    print("esto es un ejemplo")
-                    print("esto es un ejemplo")
-                    print("esto es un ejemplo")
-                    print("esto es un ejemplo")
-                    print("esto es un ejemplo")
-                    print("esto es un ejemplo")
-                    print("esto es un ejemplo")
-                    print("esto es un ejemplo")
+
                 }
             }
         }
