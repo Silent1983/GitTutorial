@@ -24,6 +24,16 @@ class MainActivity : ComponentActivity() {
                 ) {
                     Greeting("Android")
                     print("esto es un ejemplo")
+                    print("esto es un ejemplo")
+                    print("esto es un ejemplo")
+                    print("esto es un ejemplo")
+                    print("esto es un ejemplo")
+                    print("esto es un ejemplo")
+                    print("esto es un ejemplo")
+                    print("esto es un ejemplo")
+                    print("esto es un ejemplo")
+                    print("esto es un ejemplo")
+                    print("esto es un ejemplo")
                 }
             }
         }
